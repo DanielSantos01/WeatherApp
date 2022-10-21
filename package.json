@@ -28,7 +28,7 @@
     "react-native-modalize": "^2.0.8",
     "react-native-paper": "^4.0.1",
     "react-native-permissions": "^2.1.5",
-    "react-native-reanimated": "^1.10.1",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^3.1.1",
     "react-native-screens": "^2.9.0",
     "react-native-toast-message": "^1.4.3",
